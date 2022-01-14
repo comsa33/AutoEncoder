@@ -17,7 +17,7 @@
 
 ---
 
-[https://camo.githubusercontent.com/d393cc862a94453672ca7acbd91acf831fc5c36b6ae0f45cd007413ce9e788a3/68747470733a2f2f692e696d6775722e636f6d2f396a625442324f2e706e67](https://camo.githubusercontent.com/d393cc862a94453672ca7acbd91acf831fc5c36b6ae0f45cd007413ce9e788a3/68747470733a2f2f692e696d6775722e636f6d2f396a625442324f2e706e67)
+![https://camo.githubusercontent.com/d393cc862a94453672ca7acbd91acf831fc5c36b6ae0f45cd007413ce9e788a3/68747470733a2f2f692e696d6775722e636f6d2f396a625442324f2e706e67](https://camo.githubusercontent.com/d393cc862a94453672ca7acbd91acf831fc5c36b6ae0f45cd007413ce9e788a3/68747470733a2f2f692e696d6775722e636f6d2f396a625442324f2e706e67)
 
 > AutoEncoder의 기본적인 구조는 위 그림처럼 모래시계 형태를 띠고 있습니다.
 위에 Code 라고 표시된 가장 저차원의 벡터는 **Latent(잠재) 벡터**라고도 하는데요.
